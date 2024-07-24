@@ -1,0 +1,10 @@
+/home/melnibone/sandbox/rust/iced_sandbox/ripgrep-front/target/debug/deps/libzbus_macros-9d9271a544c2447a.so: /home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/lib.rs /home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/error.rs /home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/iface.rs /home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/proxy.rs /home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/utils.rs /home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/../README.md
+
+/home/melnibone/sandbox/rust/iced_sandbox/ripgrep-front/target/debug/deps/zbus_macros-9d9271a544c2447a.d: /home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/lib.rs /home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/error.rs /home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/iface.rs /home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/proxy.rs /home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/utils.rs /home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/../README.md
+
+/home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/lib.rs:
+/home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/error.rs:
+/home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/iface.rs:
+/home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/proxy.rs:
+/home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/utils.rs:
+/home/melnibone/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zbus_macros-4.4.0/src/../README.md:
